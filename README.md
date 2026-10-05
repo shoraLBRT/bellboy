@@ -1,6 +1,6 @@
 # Bellboy
 
-A Telegram assistant for a developer whose GitHub projects are built by Claude Code agents.
+Assistant for a developer whose GitHub projects are built by Claude Code agents.
 
 - **It offers work.** When your Claude usage window resets, Bellboy tells you how much usage you
   have and what the next tasks are in each of your projects.
