@@ -20,8 +20,3 @@ Projects backlog, a protected `main` with required CI, and the shared session sk
 
 Specified, not yet built. See [docs/SPEC.md](docs/SPEC.md), [docs/ROADMAP.md](docs/ROADMAP.md) and
 the [board](https://github.com/users/shoraLBRT/projects/4).
-
-## Running your own
-
-Bellboy is single-owner and meant to be forked: nothing about its author or their projects is in the
-code. A self-hosting guide comes in stage S5.
